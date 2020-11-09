@@ -1,7 +1,8 @@
 
 ## Readme
 
-This repository contains companion data for the *Triaenophorus nodulosus* transcriptome manuscript (...). It is intended to provide code and raw data for reproducibility but not for use as a pipeline. However, you are free to reuse the code at your own risk. 
+This repository contains companion data for the *Triaenophorus nodulosus* transcriptome manuscript (Kochneva *et al.*, 2020 // Marine Genomics; https://www.sciencedirect.com/science/article/abs/pii/S1874778719301539). 
+It is intended to provide code and raw data for reproducibility but not for use as a pipeline. However, you are free to reuse the code at your own risk. 
 
 ## Folder structure
 
